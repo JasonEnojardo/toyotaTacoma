@@ -1,0 +1,18 @@
+nav{
+  background-color: white;
+}
+
+.top-centered-text{
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
+
+.bottom-left-text {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 10px;  /* Adds some space between the text and the image's edges */
+}
